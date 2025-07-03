@@ -56,7 +56,3 @@ A comparative time series forecasting project investigating how ARIMA, LSTM, and
   - [Autoformer](https://arxiv.org/abs/2106.13008)
   - [TFT](https://arxiv.org/abs/1912.09363)
   - [N-BEATS](https://arxiv.org/abs/1905.10437)
-
----
-
-## 📁 Repository Structure
